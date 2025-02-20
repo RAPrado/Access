@@ -2,7 +2,7 @@
 Parâmetro :<br>
 **Conteudo -** recebe texto a ser limpo / receive a text to be clear.
 
-**Retorno -** conteudo apenas com os caracteres aceitos / return a text just with de characters allowed
+**Retorno -** conteudo apenas com os caracteres aceitos / return a text just with allowed characters
 
 ```vba
 Function Limpar(Conteudo As String) As String
